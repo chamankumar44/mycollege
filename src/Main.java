@@ -3,48 +3,22 @@ import other.Rahul;
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello world!");
+        int a = 3;
+        int b = 4;
+        int c = 5;
+        int d =  a+b+c ;
 
         Rahul rahul = new Rahul();
         rahul.doctor();
         rahul.Developer();
         rahul.lawyer();
+        String details = rahul.getStudentData("Suman", 5);
 
-//        MyHome obj = new MyHome();
-//        String feedback =  obj.watchTv ("nice");
-//        System.out.println("My Feedback is. " + feedback);
-
-        Swimming swimg= new Swimming();
-      String x= swimg.swimg("Ayush");
-        System.out.println("The Swimming pool is " +x  );
-
+        System.out.println("Result is : " + details);
+        System.out.println("New Result is : " + d );
     }
 }
 
 
-
-
-class MyHome {
-    public String watchTv (String feedback){
-        //Watching TV
-        return feedback + "  Very Good ";
-    }
-
-}
-
-
-class Swimming {
-
-    public String swimg (String feedback){
-        //swimming
-        return feedback +" nice" ;
-    }
-}
-
-class Gym {
-    public int doWorkout (int set){
-        //upper body and lowerbody
-        return set;
-    }
-}
 
 
