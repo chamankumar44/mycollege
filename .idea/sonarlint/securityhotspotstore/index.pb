@@ -24,3 +24,15 @@ G
 -.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
 S
 #.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
+J
+src/other/OtherFather.java,9\f\9f53ba6182e8ed893e52a042430c5aa8ea1239c4
+G
+src/other/Academy1.java,c\d\cd6ea0eef3d9efc03d575ff5a51f98198c9f64b3
+G
+src/other/Academy2.java,7\f\7ff9840bc87f2055311bcb8f29327055e1286585
+I
+src/other/BasketBall.java,c\d\cdd462044bfaa7037f69373d0a402021fbb7f7cf
+P
+ src/other/BasketBallAcademy.java,1\5\1505de1522653b0a262ff4efb7ab631589aeac3d
+D
+src/other/Pooja.java,e\3\e3a1fd77664f21a98d1b3426e99058c6e66467ba

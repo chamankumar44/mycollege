@@ -1,6 +1,57 @@
 package other;
 
-public class Rahul extends Father {
+public class Rahul extends Father implements Academy1,Academy2 {
+
+   public int a = 7;
+   public static int bb = 7;
+
+   public void developer() {
+
+    }
+
+    @Override
+    public void Skating() {
+
+    }
+
+    @Override
+    public void TrunOnFalshLight() {
+
+    }
+
+    @Override
+    public void TrunOffFalshLight() {
+
+    }
+
+    @Override
+    public void Doctor() {
+
+    }
+
+
+
+
+
+
+
+//   Integer abc = new Integer(8);
+   int abc1 = 8;
+
+   String str = new String("Hello");
+   String str1  = "Hello1";
+
+   boolean b = true;
+//   Boolean bb = new Boolean(true);
+
+
+
+    static  {
+        int b = 8 ;
+    }
+
+
+
 
     public void Developer (){
         super.boxer();
@@ -53,4 +104,6 @@ public class Rahul extends Father {
         }
         else return "Hume nhi pta kis ka ladka";
      }
+
+
 }

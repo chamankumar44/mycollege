@@ -1,4 +1,12 @@
 
-r	java:S106"+Replace this use of System.out by a logger.(‚ÞÏ¥ýÿÿÿÿ8£˜¡¢Ž3J$a093b1ae-79bf-4d42-9ee3-e3cfd938dddd
-m	java:S106"+Replace this use of System.out by a logger.(¡ÇÎÎ8ø§ò£Ž3J$efeca701-57b6-485e-9d0d-ab279aaa5416
-L	java:S106"+Replace this use of System.out by a logger.(¼‡üœøÿÿÿÿ8ôúš¤Ž3
+y
+java:S1854"6Remove this useless assignment to local variable "bb".(ÂƒÔâ8†·ÐËŽ3J$f68f6c50-511d-4af8-b32f-451491beeba6
+y
+java:S1854"6Remove this useless assignment to local variable "a1".(ÖŽÐ÷8ö¯ÏËŽ3J$b69593f3-542e-4ca9-b8b0-36e11ad440c1
+r	java:S106"+Replace this use of System.out by a logger.(‚ÞÏ¥ýÿÿÿÿ8÷¯ÏËŽ3J$515e11f3-129c-424d-a459-33b38a916525
+j
+java:S1481"'Remove this unused "a1" local variable.(ÖŽÐ÷8ù¯ÏËŽ3J$5d622274-ea03-48ef-937a-84bcfb9d4b3d
+j
+java:S1481"'Remove this unused "bb" local variable.(ÂƒÔâ8‰·ÐËŽ3J$9742aeb3-34db-45c1-84c7-acd08f5ffb53
+m	java:S106"+Replace this use of System.out by a logger.(¡ÇÎÎ8ù¯ÏËŽ3J$99de3dc7-e10e-4753-bc5c-3c79fca85de5
+r	java:S106"+Replace this use of System.out by a logger.(¼‡üœøÿÿÿÿ8ù¯ÏËŽ3J$86450650-b1a4-4388-8915-889141820032

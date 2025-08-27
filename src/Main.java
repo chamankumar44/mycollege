@@ -12,7 +12,14 @@ public class Main {
         rahul.doctor();
         rahul.Developer();
         rahul.lawyer();
+        rahul.Skating();
+        rahul.TrunOnFalshLight();
+        rahul.TrunOffFalshLight();
+
         String details = rahul.getStudentData("Suman", 5);
+
+        int a1 = rahul.a;
+        int bb = Rahul.bb;
 
         System.out.println("Result is : " + details);
         System.out.println("New Result is : " + d );
